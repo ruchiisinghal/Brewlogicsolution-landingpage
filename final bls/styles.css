@@ -1,0 +1,177 @@
+h1 {  font-family: 'Montserrat';  font-size: 3.5rem;  line-height: 1.5;  font-weight: 900;}
+#title{
+    background: linear-gradient(#39AEA9,#A2D5AB,#E5EFC1);   
+    color: black;
+   
+}
+.container-fluid{
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+body{
+    font-family: 'Montserrat';
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    width: 100%;
+    margin: auto;
+    padding-left: 3rem;
+    padding-right: 675px;
+    color: aliceblue;
+    
+    height: 100%;
+}
+.navbar-brand:hover{
+    background: linear-gradient(#f7fcff,#145374);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.navbar{
+    padding: 10px;
+    position: sticky;
+   
+    
+
+    
+}
+.navbar-nav{
+   padding-right: 2rem;
+   padding-bottom: 0%;
+}
+.nav-item{
+
+   width: 10rem;
+}
+.nav-link{
+    font-size: large;
+    font-weight:bolder ;
+    font-family: "Montserrat";
+    
+}
+
+.title-image{
+
+margin: 20px 20px;
+padding-left: 35rem;
+}
+.row{
+    margin-right: 0px;
+}
+.content{
+margin-top  : 150px;
+height: 300px;
+width: 500px;
+margin-left: 30px;
+}
+#partner{
+    background-color: #d4e5e6;
+     text-align: center;
+     padding-bottom: 3%;
+}
+.partner-logo{
+    width: 10%;
+    margin: 20px 20px 20px;
+    padding: 0px 15px 0px;  
+    transition: transform .2s;
+}
+.partner-logo:hover{
+        -ms-transform: scale(1.5); 
+        -webkit-transform: scale(1.5); 
+        transform: scale(1.5); 
+      
+}
+#middle-container {
+    padding: 7% 15%;
+    text-align: left;
+    background-color: #a0c2c3;
+}
+.picture-mid{
+    width: 30%;
+    padding: 0px 20px 0px   ;
+    margin-left: 20 rem;
+   
+}
+h2{
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.textmc{
+    width:500px;
+    padding-left: 20px;
+    
+    font-weight: 700;
+    font-family: 'Montserrat';
+}
+#middle-container2{
+    padding: 7% 15%;
+    background-color: gainsboro;
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+    
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #78c2c3;
+    margin-bottom: 20px;
+}
+.icon:hover{
+    color: plum;
+}
+.boxes-head{
+    text-align: center;
+    font-weight: bolder;
+    color: darkcyan;
+}
+.boxes-content{
+    text-align: center;
+    font-weight: 500;  
+    font-size: larger;
+    color: darkcyan;
+}
+#pricing{
+    padding: 100px;
+
+}
+.pricing-column{
+    padding: 3% 2%;
+   
+    border-radius: 4px;
+    color: #020e26;
+    
+    overflow: hidden;
+    transition: 0.6s;
+    transform: translate(0);
+    font-weight: 400;
+}
+.card:hover{
+
+    color: #709FB0;
+}
+
+.col-md-6{
+    padding-left:35px;
+}
+
+.card3{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#footer{
+    padding:25px;
+    text-align: center;
+}
+
+
